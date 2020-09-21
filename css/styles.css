@@ -1,0 +1,29 @@
+body {
+    background-color: #e0ece4;
+}
+
+hr {
+
+    width: 6%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    opacity: 0.7;
+
+}
+
+h1 {
+    color: #056674;
+    font-style: italic;
+}
+
+h3 {
+    color: #43658b;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #4e89ae;
+}
